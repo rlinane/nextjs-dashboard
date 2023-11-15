@@ -11,7 +11,7 @@ import clsx from 'clsx';
  
 // ...
  
-export default function NavLinks() {
+export default function NavLinks(links: { name: string; href: string; icon: any }[]) {
   const pathname = usePathname();
  
   return (
