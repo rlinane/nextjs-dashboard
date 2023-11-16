@@ -7,3 +7,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 https://nextjs.org/learn/dashboard-app/setting-up-your-database
+
+adding folders with () parens around the name will exclude it from the route 
+it helps to scope streaming/loading behaviors and to segreate code by domain
+(e.g. (marketing) routes and (shop) routes) or by teams for larger applications.
