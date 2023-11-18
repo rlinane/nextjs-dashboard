@@ -12,4 +12,4 @@ adding folders with () parens around the name will exclude it from the route
 it helps to scope streaming/loading behaviors and to segreate code by domain
 (e.g. (marketing) routes and (shop) routes) or by teams for larger applications.
 
-https://nextjs.org/learn/dashboard-app/adding-search-and-pagination
+https://nextjs.org/learn/dashboard-app/mutating-data
